@@ -23,3 +23,8 @@ To show the 'recycling' items:
 ```
   Go to http://localhost:8080/items/recycling
 ```
+### 4. User-centred design:
+  The design is provided in the `design.pdf` file.
+
+### 5. Technology to integrate backend and frontend.
+  For backend service, we are using Bottle service, it allow us to serve content in many different formats. For frontend side, we can use ReactJS and communicate with backend via RestfulAPI. 
